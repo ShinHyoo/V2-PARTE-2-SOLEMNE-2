@@ -1,4 +1,4 @@
 # Parte-2-Solemne-2
  Prototipo de la aplicación presentada en formato web
 
- Dissclaimer: "Finalmente, termino esta larga tortura impuesta por esta sociedad tecnológica que obliga a saber de programación a una pobre supermercadito indefenso que es un cero a la izquierda con la programación. Quiero agradecer a Shrek y la canción de su segunda película -Yo quiero un héroe- por darme la serotonina y fe necesario y magia negra que permitió que todo esto funcionara y se arreglara justo en el momento necesario. No hay gracias para el profe, pero si para Maite, me salvaste la patria amix. Gracias por todo, perdón por tan poco. Odio a GitHub y sus repositorios que fueron el nuevo problema que provocó mi retraso por 30min de subir las cosas, un colapso emocional y ansioso leve y silencioso y más estrés del que ya tenía. Special thnks para el pana de la maite que salvó la noche ayudandome a subir los archivos a mi repo. Nos vemos (ojala no) en una proxima edición. -Shiro"
+
